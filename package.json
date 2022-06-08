@@ -1,5 +1,5 @@
 {
-	"name": "@egjs/flicking",
+	"name": "@rudy1011100/flicking",
 	"version": "4.7.3-snapshot",
 	"description": "Everyday 30 million people experience. It's reliable, flexible and extendable carousel.",
 	"main": "dist/flicking.js",
